@@ -1,0 +1,2 @@
+Aplicação de segurança informática que permite analisar a analisar uma rede local, nomeadamente, detetar que portos estão disponíveis numa determinada rede local, analisar as ligações ativas e processar os ficheiros log.
+Esta ferramente permite ainda produzir relatórios no formato PDF, listas de informação em Formato CSV e exportar informação para uma base de dados SQL.
